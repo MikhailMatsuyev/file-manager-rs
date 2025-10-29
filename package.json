@@ -1,0 +1,21 @@
+{
+  "name": "file-manager-rs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailMatsuyev/file-manager-rs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MikhailMatsuyev/file-manager-rs/issues"
+  },
+  "homepage": "https://github.com/MikhailMatsuyev/file-manager-rs#readme"
+}
